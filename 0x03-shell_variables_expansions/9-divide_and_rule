@@ -1,2 +1,2 @@
 #!/bin/bash
-pritf "%s/n" "$(($POWER/$DIVIDE))
+echo $(($POWER/DIVIDE))
